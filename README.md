@@ -2,7 +2,7 @@
 
 A clean, fully featured task manager built with pure HTML, CSS, and vanilla JavaScript. No frameworks, no dependencies — just one file.
 
-**[Live Demo →](https://your-username.github.io/taskly/)**
+**[Live Demo →](https://noorulain.github.io/taskly/)**
 
 ---
 
